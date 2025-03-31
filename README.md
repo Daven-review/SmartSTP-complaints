@@ -4,7 +4,7 @@ SmartSTP Complaints: How the Platform Addresses User Issues and Resolves Them
 SmartSTP is a well-known online trading platform that prides itself on providing reliable and efficient services to traders around the world. Like any service, there are occasional complaints from users, but what's worth noting is how SmartSTP addresses and resolves these issues. In this article, we'll explore some of the common complaints users face on the platform, the situations that arise, and how SmartSTP takes a proactive approach to ensure customer satisfaction. Despite some occasional hiccups, SmartSTP has earned a reputation for its strong customer service and commitment to user success.
 
 
-![image]()
+![image](https://github.com/Daven-review/SmartSTP-complaints/blob/db39858ca1068f8f473258e8b1e182e6daab9958/smartstp%20home%20screen.png)
 
 Issue: Slow Withdrawals and Payment Delays
 --------------------
